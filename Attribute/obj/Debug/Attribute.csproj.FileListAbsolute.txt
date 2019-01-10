@@ -1,0 +1,7 @@
+C:\Users\fang.shi\Desktop\Attribute\Attribute\bin\Debug\Attribute.exe.config
+C:\Users\fang.shi\Desktop\Attribute\Attribute\bin\Debug\Attribute.exe
+C:\Users\fang.shi\Desktop\Attribute\Attribute\bin\Debug\Attribute.pdb
+C:\Users\fang.shi\Desktop\Attribute\Attribute\obj\Debug\Attribute.csproj.CoreCompileInputs.cache
+C:\Users\fang.shi\Desktop\Attribute\Attribute\obj\Debug\Attribute.exe
+C:\Users\fang.shi\Desktop\Attribute\Attribute\obj\Debug\Attribute.pdb
+C:\Users\fang.shi\Desktop\Attribute\Attribute\obj\Debug\Attribute.csprojAssemblyReference.cache
